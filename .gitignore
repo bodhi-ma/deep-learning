@@ -1,0 +1,9 @@
+log
+venv
+*.pyc
+__pycache__
+.ropeproject
+.idea
+.vscode
+.pytest_cache
+landbridge/im/image_server/static/

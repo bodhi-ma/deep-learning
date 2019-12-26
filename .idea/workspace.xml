@@ -2,73 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5f897db-7a39-4454-95ff-6c7cfc773c8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/hungry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/img_show.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/man.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/simple_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/sin_cos_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/sin_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/and_gate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/nand_gate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/or_gate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/xor_gate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/mnist_show.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/neuralnet_mnist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/neuralnet_mnist_batch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/relu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sample_weight.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sig_step_compare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sigmoid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/step_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/gradient_1d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/gradient_2d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/gradient_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/gradient_simplenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/train_neuralnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/two_layer_net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/buy_apple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/buy_apple_orange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/gradient_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/layer_naive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/train_neuralnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/two_layer_net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/batch_norm_gradient_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/batch_norm_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/hyperparameter_optimization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/optimizer_compare_mnist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/optimizer_compare_naive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/overfit_dropout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/overfit_weight_decay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/weight_init_activation_histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/weight_init_compare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/apply_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/gradient_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/params.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/simple_convnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/train_convnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/visualize_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/awesome_net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/deep_convnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/deep_convnet_params.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/half_float_network.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/misclassified_mnist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/train_deepnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/gradient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/layers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/multi_layer_net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/multi_layer_net_extend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/optimizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/trainer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataset/lena.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataset/lena_gray.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataset/mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataset/mnist.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataset/t10k-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataset/t10k-labels-idx1-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataset/train-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataset/train-labels-idx1-ubyte.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter03/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter03/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter04/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataset/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/mnist_show.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/mnist_show.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/neuralnet_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/neuralnet_mnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/neuralnet_mnist_batch.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/neuralnet_mnist_batch.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,8 +29,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VT9AAZQ7YvqQFIpO6tjbIHiAnn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -114,7 +59,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.neuralnet_mnist">
+  <component name="RunManager" selected="Python.neuralnet_mnist_batch">
+    <configuration name="img_show" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deep-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ch01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ch01/img_show.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mnist_show" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deep-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,6 +123,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="neuralnet_mnist_batch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deep-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ch03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ch03/neuralnet_mnist_batch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="relu" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deep-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,55 +165,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sig_step_compare" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="deep-learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ch03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ch03/sig_step_compare.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="step_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="deep-learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ch03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ch03/step_function.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.neuralnet_mnist_batch" />
         <item itemvalue="Python.neuralnet_mnist" />
         <item itemvalue="Python.mnist_show" />
+        <item itemvalue="Python.img_show" />
         <item itemvalue="Python.relu" />
-        <item itemvalue="Python.sig_step_compare" />
-        <item itemvalue="Python.step_function" />
       </list>
     </recent_temporary>
   </component>
@@ -258,5 +203,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
